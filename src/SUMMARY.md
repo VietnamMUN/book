@@ -12,6 +12,7 @@
         - [Chairing Styles](./chair-guide/chairing_styles.md)
         - [Chairing Scenarios](./chair-guide/chairing_scenarios.md)
     - [Code of Ethics](./chair-guide/code_of_ethics.md)
+        - [Things to Avoid](./chair-guide/ethic_things_to_avoid.md)
 - [Guide for Organizers](./organizer-guide/guide_for_organizers.md)
     - [Funding](./organizer-guide/funding.md)
 - [Contributors](./contributors.md)
