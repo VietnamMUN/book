@@ -3,7 +3,10 @@ authors = ["Viet Than"]
 language = "en"
 multilingual = false
 src = "src"
-title = "VietnamMUN Guide for Delegates, Chairs, and Organizers"
+title = "VietnamMUN.org Guide for Delegates, Chairs, and Organizers"
 
 [output.html]
+git-repository-url = "https://github.com/VietnamMUN/book"
+# git-repository-icon = "fa-building-un"
+edit-url-template = "https://github.com/VietnamMUN/book/edit/main/{path}"
 cname = "guides.vietnammun.org"
