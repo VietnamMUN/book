@@ -1,6 +1,7 @@
 # Summary
 
 - [Introductions](./introductions.md)
+- [How to Contribute](./how_to_contribute.md)
 - [Guide for Delegates](./delegates-guide/guide_for_delegates.md)
     - [MUN Typical Rules of Procedures](./delegates-guide/MUN_typical_rules_of_procedures.md)
     - [Dress Code](./delegates-guide/dress_code.md)
