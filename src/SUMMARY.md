@@ -1,5 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1_0.md)
-- [Chapter 2](./chapter_2_0.md)
-    - [Chapter 2.1](./chapter_2_1)
+- [Introductions](./introductions.md)
+- [Guide for Delegates](./delegates-guide/guide_for_delegates.md)
+- [Guide for Chairs](./chair-guide/guide_for_chairs.md)
+- [Guide for Organizers](./organizer-guide/guide_for_organizers.md)

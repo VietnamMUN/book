@@ -3,7 +3,7 @@ authors = ["Viet Than"]
 language = "en"
 multilingual = false
 src = "src"
-title = "VietnamMUN Guide for Organizers, Chairs, and Delegates"
+title = "VietnamMUN Guide for Delegates, Chairs, and Organizers"
 
 [output.html]
 cname = "guides.vietnammun.org"
