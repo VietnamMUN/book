@@ -2,15 +2,9 @@
 
 - [Introductions](./introductions.md)
 - [How to Contribute](./how_to_contribute.md)
-
----
-
 - [Guide for Delegates](./delegates-guide/guide_for_delegates.md)
     - [MUN Typical Rules of Procedures](./delegates-guide/MUN_typical_rules_of_procedures.md)
     - [Dress Code](./delegates-guide/dress_code.md)
-
----
-
 - [Guide for Chairs](./chair-guide/guide_for_chairs.md)
     - [Pre-Conference](./chair-guide/pre_conference.md)
         - [Get to know your colleagues](./chair-guide/get_to_know_your_colleagues.md)
@@ -20,12 +14,7 @@
         - [Chairing Scenarios](./chair-guide/chairing_scenarios.md)
     - [Code of Ethics](./chair-guide/code_of_ethics.md)
         - [Things to Avoid](./chair-guide/ethic_things_to_avoid.md)
-
----
-
 - [Guide for Organizers](./organizer-guide/guide_for_organizers.md)
     - [Funding](./organizer-guide/funding.md)
-
----
-
+    - [Incident Handling](./organizer-guide/incident_handling.md)
 - [Contributors](./contributors.md)
