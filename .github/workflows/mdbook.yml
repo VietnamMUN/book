@@ -91,7 +91,7 @@ jobs:
           mdbook-version: 'latest'
 
       - run: mdbook build
-      - run: cp favicon-32x32.png ./book/favicon.png && cp favicon-32x32.svg favicon.svg
+      - run: cp favicon-32x32.png ./book/favicon.png && cp favicon-32x32.svg ./book/favicon.svg
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
